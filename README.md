@@ -1,3 +1,7 @@
+![Banner: a microfilm reader on an archive desk in a dark room, reels loaded on top and at its side, its screen showing one thread-like column of plain blocks lit warm, boxes of further reels stacked on both sides](banner.png)
+
+<p align="center"><img src="logo.png" alt="reddit-html-archiver logo: the glowing screen of a microfilm reader seen straight on in a dark room, one page shape lit amber white on it with blurred unreadable lines" width="200"></p>
+
 ## reddit html archiver
 
 pulls reddit data from the [pushshift](https://github.com/pushshift/api) api and renders offline compatible html pages. uses the reddit markdown renderer.
